@@ -1,8 +1,7 @@
-# to-do-checklist
-
-# React Todo App.
+# React ToDo Checklist
 
 A complete todo application with all features.
+Proof of Concept / Hosted URL - https://to-do-check.firebaseapp.com/
 
 ## Project Description
 
